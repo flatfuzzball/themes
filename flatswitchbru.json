@@ -1,0 +1,24 @@
+						
+{
+	"name": "flatheme",
+	"colors": {
+		"main": "#25283D",
+		"side": "#25283D",
+		"text": "#EFD9CE",
+		"border-focus": "#CEA2AC",
+		"text-focus": "#CEA2AC",
+		"focus-background": "#8F3985",
+		"box-outline": "#8F3985",
+		"header-border": "#8F3985",
+		"button-outline": "#8F3985",
+		"ok": "#CEA2AC",
+		"ok-text": "#EFD9CE",
+		"online-text": "#EFD9CE"
+	},
+	"images": {
+		"tick": "dark",
+		"yt": "dark",
+		"friends": "dark"
+	}
+}
+					
